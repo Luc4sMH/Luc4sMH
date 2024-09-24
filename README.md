@@ -1,4 +1,4 @@
-<img align="right" width="70px" style="margin-top:-20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />
+<img align="right" width="65px" style="margin-top:-20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />
 
 <h1>Lucas M. Honorato</h1>
 <a href="https://www.linkedin.com/in/lucas-m-31240185/">
