@@ -6,22 +6,18 @@
 
 
 ## Hello there 🌌⚔👾
-#en
+**#en**
 <p>Welcome to my GitHub profile.
 My name is Lucas, aka Luska. I'm a front-end developer in training, always hungry for new knowledge.
 I'm from Fortaleza, Ceará, Brazil, and I'm excited to explore more from "world".
 Thank you for visiting my profile. Let's share our knowledge together.</p>
 
-#pt-br
+**#pt-br**
 <p>Seja bem-vindo ao meu perfil no GitHub.
 Meu nome é Lucas, também conhecido como Luska. Sou um desenvolvedor front-end em formação, sempre ansioso por novos conhecimentos.
 Sou de Fortaleza, Ceará, Brasil, e estou animado para explorar mais do 'mundo'.
 Obrigado por visitar meu perfil. Vamos compartilhar nossos conhecimentos juntos.
 </p>
-
-<hr>
-Atualmente trabalho de assistente de atendimento no Grupo Boticário / Casa Magalhães, realizando o auxílio de N1 e N2, interagindo com softwares e banco de dados (Firebird e SQL).
-<hr>
 
 ### 👨‍💻Estudando:
 <code><img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" title = "HTML5"/></code>
